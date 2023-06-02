@@ -12,7 +12,7 @@ public class Emre {
         System.out.println("Emre");
         System.out.println("Emre");
         System.out.println("Emre");
-        System.out.println("Emre");
+        System.out.println("burcu");
         System.out.println("Ayda");
         System.out.println("Ayda");
         System.out.println("Ayda");
